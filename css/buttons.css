@@ -18,6 +18,7 @@ button {
     font-size: 18pt;
     font-family: inherit;
     user-select: none;
+    -webkit-user-select: none;
 }
 
 .load-card-button {

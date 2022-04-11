@@ -161,6 +161,7 @@
     width: 120px;
     height: 60px;
     user-select: none;
+    -webkit-user-select: none;
     background-color: var(--loader-button-text-color);
     border-top-left-radius: 60px;
     border-top-right-radius: 60px;

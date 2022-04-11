@@ -33,6 +33,7 @@
     transition-property: top;
     box-shadow: 0 0 var(--book-shadow-radius) var(--book-shadow-color);
     user-select: none;
+    -webkit-user-select: none;
     border-radius: var(--card-border-radius);
 }
 

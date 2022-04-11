@@ -26,6 +26,7 @@
     background-color: var(--menu-box-background);
     border-radius: var(--menu-button-border-radius);
     user-select: none;
+    -webkit-user-select: none;
     display: flex;
     flex-direction: column;
     align-items: center;
